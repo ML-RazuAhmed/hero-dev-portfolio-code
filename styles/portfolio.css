@@ -62,7 +62,7 @@ header {
     /* background-color: #FFF8F3; */
     background-color: #FF0000;
     background: url("../images/developer.png"), url("../images/header_bg.png"), #fff8f3;
-    background-position: left,bottom right;
+    background-position: 23px 38px,bottom right;
     background-repeat: no-repeat;
 }
 
@@ -283,4 +283,16 @@ footer .footer-container {
 
     color: #757575;
 
+}
+
+/* here comes additional */
+#resume .text-center {
+    margin-top: 50px;
+}
+
+.banner-content #contact_color {
+    color: #FD6E0A;
+    background-color: white;
+    border: 1px solid #FD6E0A;
+    margin-left: 30px;
 }
